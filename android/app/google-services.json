@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "305809197992",
+    "project_id": "wattlogic-dev1",
+    "storage_bucket": "wattlogic-dev1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305809197992:android:214d3569a6ab3a0ba12b9d",
+        "android_client_info": {
+          "package_name": "com.mycompany.devwl2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305809197992-0d5gt13vu31aqcp8lg2gnqq54fp2sa11.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.devwl2",
+            "certificate_hash": "a219e814ca384f03be936d18b71fcf4a65a1e26f"
+          }
+        },
+        {
+          "client_id": "305809197992-oa05rqd5khc7vjqfs7sk010fffjfnsb9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.devwl2",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "305809197992-snaseoucl54bnh9rc4ks3cfsor166hlr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKRr8XtsUmuuES6JwzSzM8QekEahx14y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305809197992-snaseoucl54bnh9rc4ks3cfsor166hlr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "305809197992-kjch29d8ffr1u6np43phkddcnc1b96o5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wattlogic.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305809197992:android:9fcc76716cf286dda12b9d",
+        "android_client_info": {
+          "package_name": "com.wattlogic.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305809197992-970rns1vn3g0v52qq72nj1b57cmh849v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wattlogic.app",
+            "certificate_hash": "a219e814ca384f03be936d18b71fcf4a65a1e26f"
+          }
+        },
+        {
+          "client_id": "305809197992-f56aamgop0rg9c33teshpi8fbgmejrim.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wattlogic.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "305809197992-o4n5g07sb84or2mj394s2bfqikn78jmo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wattlogic.app",
+            "certificate_hash": "2b2ad69b8ea2974e3ab501c400593e2076f9ff5a"
+          }
+        },
+        {
+          "client_id": "305809197992-snaseoucl54bnh9rc4ks3cfsor166hlr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKRr8XtsUmuuES6JwzSzM8QekEahx14y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305809197992-snaseoucl54bnh9rc4ks3cfsor166hlr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "305809197992-kjch29d8ffr1u6np43phkddcnc1b96o5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wattlogic.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

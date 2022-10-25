@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>305809197992-kjch29d8ffr1u6np43phkddcnc1b96o5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.305809197992-kjch29d8ffr1u6np43phkddcnc1b96o5</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>305809197992-0d5gt13vu31aqcp8lg2gnqq54fp2sa11.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC1jkcxkrDGIjX10kHf6Rkxx7b8HjikVoI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>305809197992</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.wattlogic.app</string>
+	<key>PROJECT_ID</key>
+	<string>wattlogic-dev1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wattlogic-dev1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:305809197992:ios:24716f71e8840319a12b9d</string>
+</dict>
+</plist>
